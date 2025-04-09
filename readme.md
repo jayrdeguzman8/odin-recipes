@@ -1,0 +1,1 @@
+Kelangan mong alamin ang iba't ibang html tags katulad ng p,a,img,ul,ol,h1 to h6, at gumamit ng git hub codes para sa pag save ng file sa repository. Maraming salamat po. 1st of many more project/exercise.
